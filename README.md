@@ -3,7 +3,7 @@
 
   ![Loading](https://github.com/Batatexy/python-loading-screen/assets/141431095/ed12b193-5ce0-407d-a328-c78533b64b82)
   <br>
-  https://github.com/Batatexy/python-loading-screen/assets/141431095/e79cdbd5-ad22-4123-9abc-d39dab770e80
+  
 </div>
 
 <div align="justify">
