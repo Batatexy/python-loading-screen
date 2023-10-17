@@ -12,6 +12,6 @@
   </p>
 
   <p>
-    Apenas uma tela de carregamento simples usando o terminal do python, nesse código tem uma piada sobre o computar ficar pensandno no suposto número que você pensou, mas de qualquer forma, dá pra alterar pra uma tela de loading normal
+    Apenas uma tela de carregamento simples usando o terminal do python, nesse código tem uma piada sobre o computar ficar pensando no suposto número que você pensou, mas de qualquer forma, dá pra alterar pra uma tela de loading normal
   </p>
 </div>
